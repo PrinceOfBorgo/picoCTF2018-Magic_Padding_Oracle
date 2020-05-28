@@ -1,6 +1,6 @@
 # picoCTF2018 - Magic Padding Oracle
 ## Text
-> Can you help us retreive the flag from this crypto service? Connect with nc 2018shell.picoctf.com 24933. We were able to recover some [Source](https://github.com/PrinceOfBorgo/picoCTF2018-Magic_Padding_Oracle/blob/master/pkcs7.py) Code.
+> Can you help us retreive the flag from this crypto service? Connect with `nc 2018shell.picoctf.com 24933`. We were able to recover some [Source](https://github.com/PrinceOfBorgo/picoCTF2018-Magic_Padding_Oracle/blob/master/pkcs7.py) Code.
 
 Port may be different.
 
